@@ -1,5 +1,13 @@
 #added by Vjeran
-Front was was created using create-react-app and additionally added mobx and gzip webpack plugin to minimize file size
+
+To install packages for front run from this folder
+```
+yarn install
+```
+
+Front was was created using create-react-app and additionally added mobx and gzip webpack plugin to minimize file size.
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).

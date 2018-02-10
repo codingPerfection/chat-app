@@ -1,9 +1,17 @@
 # About
+
+to install packages run from root and from ./front/
+
+```
+yarn install
+```
+
 To run project navigate run back/index.js and navigate to localhost
 
 App will run on port 80.
 
 On back files are served using gzip compression (where it makes sense) and front is packed using webpack.
+
 
 ## Back
 Back uses express for serving static files and socket.io for communication.
