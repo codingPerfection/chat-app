@@ -6,7 +6,7 @@ to install packages run from root and from ./front/
 yarn install
 ```
 
-To run project navigate run back/index.js and navigate to localhost
+To run project navigate to ./back and run index.js and open browser to localhost
 
 App will run on port 80.
 
